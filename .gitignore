@@ -1,1 +1,11 @@
 *./data/web
+
+__pypackeges__/
+
+#celery
+celerybeat-schedule
+celerybeat.pidserviceName
+
+#Enviroments
+.env 
+.venv
